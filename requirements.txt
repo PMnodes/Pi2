@@ -1,0 +1,17 @@
+aiohttp==3.12.15
+aiosqlite==0.21.0
+colorama==0.4.6
+cryptography==45.0.6
+curl_cffi==0.9.0b2
+eth_account==0.13.7
+eth_typing==5.2.1
+imap_tools==1.11.0
+loguru==0.7.3
+pydantic==2.11.7
+questionary==2.1.0
+rich==14.1.0
+SQLAlchemy==2.0.43
+web3==7.13.0
+tweepy-self==1.12.0
+httpx==0.28.1
+prompt_toolkit==3.0.51
